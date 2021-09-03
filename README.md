@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cozyexe
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C#
+- 📫 How to reach me https://discord.gg/UvdTnkAxcz
